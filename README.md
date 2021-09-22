@@ -7,13 +7,16 @@ Blair Wang is a PhD Candidate supervised by scholars from UNSW Sydney and The Un
 
 ### Personal projects
 
+- 🌙 &nbsp;[liveworldmap](https://github.com/blairw/liveworldmap)
 - 🎫 &nbsp;[ticketingtasks](https://github.com/blairw/ticketingtasks)
-- ⏱&nbsp;[stampy](https://github.com/blairw/stampy)
+- 🐚 &nbsp;[shellstarterkit](https://github.com/blairw/shellstarterkit)
+- ⏱ &nbsp;[stampy](https://github.com/blairw/stampy)
 - 🪐 &nbsp;[javafx-planets-dbdemo](https://github.com/blairw/javafx-planets-dbdemo)
 
 ### UNSW teaching materials
 - 📦 &nbsp;[infs1609quickrefresher](https://github.com/blairw/infs1609quickrefresher)
 - ☕️ &nbsp;[infs2605quickrefresher](https://github.com/blairw/infs2605quickrefresher)
-- 🐍&nbsp;[ProgrammingForDataAnalytics](https://github.com/blairw/ProgrammingForDataAnalytics)
+- ☕️ &nbsp;[infs2605quickrefresher](https://github.com/blairw/infs2605fxstarterkit)
+- 🐍 &nbsp;[ProgrammingForDataAnalytics](https://github.com/blairw/ProgrammingForDataAnalytics)
 
 Find out more at [www.blair.wang](www.blair.wang).
