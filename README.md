@@ -17,7 +17,7 @@ Blair Wang is a PhD Candidate supervised by scholars from UNSW Sydney and The Un
 ### UNSW teaching materials
 - 📦 &nbsp;[infs1609quickrefresher](https://github.com/blairw/infs1609quickrefresher)
 - ☕️ &nbsp;[infs2605quickrefresher](https://github.com/blairw/infs2605quickrefresher)
-- ☕️ &nbsp;[infs2605quickrefresher](https://github.com/blairw/infs2605fxstarterkit)
+- ☕️ &nbsp;[infs2605fxstarterkit](https://github.com/blairw/infs2605fxstarterkit)
 - 🐍 &nbsp;[ProgrammingForDataAnalytics](https://github.com/blairw/ProgrammingForDataAnalytics)
 
 Find out more at [www.blair.wang](www.blair.wang).
