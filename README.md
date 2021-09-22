@@ -11,6 +11,7 @@ Blair Wang is a PhD Candidate supervised by scholars from UNSW Sydney and The Un
 - 🎫 &nbsp;[ticketingtasks](https://github.com/blairw/ticketingtasks)
 - 🐚 &nbsp;[shellstarterkit](https://github.com/blairw/shellstarterkit)
 - ⏱ &nbsp;[stampy](https://github.com/blairw/stampy)
+- 📔 &nbsp;[personbook](https://github.com/blairw/personbook)
 - 🪐 &nbsp;[javafx-planets-dbdemo](https://github.com/blairw/javafx-planets-dbdemo)
 
 ### UNSW teaching materials
