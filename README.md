@@ -1,4 +1,4 @@
-Blair Wang is a PhD Candidate supervised by scholars from UNSW Sydney and The University of Sydney. Some of his GitHub repositories that you may be interested in include:
+Blair Wang is an Information Systems lecturer in Sydney, Australia. Some of his GitHub repositories that you may be interested in include:
 
 ### Research projects
 
@@ -15,6 +15,9 @@ Blair Wang is a PhD Candidate supervised by scholars from UNSW Sydney and The Un
 - 🪐 &nbsp;[javafx-planets-dbdemo](https://github.com/blairw/javafx-planets-dbdemo)
 
 ### UNSW teaching materials
+
+_Note: I no longer work for UNSW. These materials are here for historical reasons only._
+
 - 📦 &nbsp;[infs1609quickrefresher](https://github.com/blairw/infs1609quickrefresher)
 - ☕️ &nbsp;[infs2605quickrefresher](https://github.com/blairw/infs2605quickrefresher)
 - ☕️ &nbsp;[infs2605fxstarterkit](https://github.com/blairw/infs2605fxstarterkit)
