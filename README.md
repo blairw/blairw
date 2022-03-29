@@ -1,18 +1,29 @@
 Blair Wang is an Information Systems lecturer in Sydney, Australia. Some of his GitHub repositories that you may be interested in include:
 
+### Work in progress
+
+- [isconfs](https://github.com/blairw/isconfs)
+- [isjournalrankings](https://github.com/blairw/isjournalrankings)
+- [shelltricks](https://github.com/blairw/shelltricks)
+
 ### Research projects
 
 - 🧺 &nbsp;[litbaskets](https://github.com/blairw/litbaskets)
 - 🗺 &nbsp;[nomadsmap](https://github.com/blairw/nomadsmap)
 
-### Personal projects
+### Programming projects for fun
+
+Active:
+
+- 🎫 &nbsp;[ticketingtasks](https://github.com/blairw/ticketingtasks)
+
+Historical:
 
 - 🌙 &nbsp;[liveworldmap](https://github.com/blairw/liveworldmap)
-- 🎫 &nbsp;[ticketingtasks](https://github.com/blairw/ticketingtasks)
-- 🐚 &nbsp;[shellstarterkit](https://github.com/blairw/shellstarterkit)
 - ⏱ &nbsp;[stampy](https://github.com/blairw/stampy)
-- 📔 &nbsp;[personbook](https://github.com/blairw/personbook)
+- 🐚 &nbsp;[shellstarterkit](https://github.com/blairw/shellstarterkit)
 - 🪐 &nbsp;[javafx-planets-dbdemo](https://github.com/blairw/javafx-planets-dbdemo)
+- 📔 &nbsp;[personbook](https://github.com/blairw/personbook)
 
 ### UNSW teaching materials
 
