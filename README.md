@@ -1,4 +1,4 @@
-Blair Wang is an Information Systems lecturer in Sydney, Australia. Some of his GitHub repositories that you may be interested in include:
+Blair Wang is an Information Systems lecturer in Galway, Ireland. Some of his GitHub repositories that you may be interested in include:
 
 ### Work in progress
 
